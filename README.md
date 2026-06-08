@@ -107,6 +107,17 @@ Flight-price-prediction/
 └── README.md
 ```
 
+## Results
+
+| Metric | Baseline RF | Tuned RF |
+|--------|------------|----------|
+| R²     | 0.798      | 0.812    |
+| MAE    | ₹1,172     | ₹1,165   |
+| RMSE   | ₹2,085     | ₹2,016   |
+| Normalised RMSE | — | 2.7%  |
+
+*Normalised RMSE: 0.027 - meaning the error is only 2.7% of the full price range.*
+
 ---
 
 ## Run it locally
