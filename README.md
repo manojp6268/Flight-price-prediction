@@ -107,6 +107,8 @@ Flight-price-prediction/
 └── README.md
 ```
 
+---
+
 ## Results
 
 | Metric | Baseline RF | Tuned RF |
