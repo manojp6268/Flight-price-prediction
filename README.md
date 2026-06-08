@@ -161,7 +161,7 @@ This project goes beyond basic regression — it shows a deliberate, two-stage M
 
 ## Author
 
-**Manoj Prakash** — Data Scientist & AI/ML Engineer
+**Manoj Prakash** - Data Scientist & AI/ML Engineer
 M.Sc. Data Science @ Universität Trier · ex-Oracle Cerner · ex-Huawei
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/manoj-p-a95b7b1a2)
